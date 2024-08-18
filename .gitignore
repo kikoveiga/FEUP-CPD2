@@ -1,0 +1,6 @@
+# Don't include compiled java files (recursive)
+**/*.class
+/assign2.iml
+/java
+.idea
+src/database/tokens/*
